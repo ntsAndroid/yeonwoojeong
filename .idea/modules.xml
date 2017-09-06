@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/doitandroid.iml" filepath="$PROJECT_DIR$/doitandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yeonwoojeong.iml" filepath="$PROJECT_DIR$/yeonwoojeong.iml" />
     </modules>
   </component>
 </project>
