@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+//dkfkdkfskdkkjfwidkdjfjdkfkdffkdkfdkdkfjdkfk
         inputMessage = (EditText)findViewById(R.id.inputMessage);
         inputCount = (TextView)findViewById(R.id.inputCount);
 
