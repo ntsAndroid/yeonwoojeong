@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
                     ex.printStackTrace();
                 }
             }
-
+//dd
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
 
             }
