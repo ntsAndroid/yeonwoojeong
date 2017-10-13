@@ -8,7 +8,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import org.techtown.mission05.R;
 
 
 public class LoginActivity extends AppCompatActivity {
